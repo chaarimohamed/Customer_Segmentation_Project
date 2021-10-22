@@ -1,1 +1,1 @@
-# EDA_&_Kmean_Project
+# Customer_Segmentation_Project
